@@ -1,21 +1,21 @@
 # React JS Projects
 
-These projects showcase React’s versatility in building visually appealing and interactive applications.
+These projects demonstrate React versatility in building visually appealing and interactive applications.
 
 ### Travelx React Application
 
 - Directory: [travelx-react-app](https://dassujan.github.io/travelx-react-app) ([source code](https://github.com/dassujan/travelx-react-app))
-- Description: This project is a responsive TravelX app built with React. It showcases stunning visuals and user-friendly features through components like Navbar, Header, Services, Pricing, About, PopularPlaces, Contact, and Footer.
+- Description: This project is a React-based responsive TravelX app. It showcases stunning visuals and user-friendly features through components like Navbar, Header, Services, Pricing, About, PopularPlaces, Contact, & Footer.
 
 ### Dictionary React Application
 
 - Directory: [dictionary-react-app](https://dassujan.github.io/dictionary-react-app) ([source code](https://github.com/dassujan/dictionary-react-app))
-- Description: This application built with React & MUI framework. Look up definitions, expand your vocabulary and enhance your language skills effortlessly.
+- Description: Dictionary React App is a web application built with React & MUI framework. Look up definitions, expand your vocabulary and enhance your language skills effortlessly.
   
 ### Calculator React Application
 
 - Directory: [calculator-react-app](https://dassujan.github.io/calculator-react-app ) ([source code](https://github.com/dassujan/calculator-react-app))
-- Description: Calculator React App is a web application built using React, a popular JS library for building user interfaces. This calculator app provides a user-friendly interface for performing basic mathematical calculations right in the browser.
+- Description: Calculator React App is a web application built using React, a popular JS library for building user interfaces. This application provides a user-friendly interface for conducting simple mathematical computations directly in the browser.
 
 ### TextUtils React Application
 
